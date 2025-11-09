@@ -1,3 +1,3 @@
-To access my portfolio, click the following link.
+Access the website here:
 
-https://briankimdw.github.io/portfolio/
+https://briankimdw.github.io/Video-Website/
