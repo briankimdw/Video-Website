@@ -26,7 +26,7 @@ const Hero = () => {
           >
             <div className="w-32 h-32 md:w-40 md:h-40 mx-auto mb-6 relative">
               <img 
-                src="/portfolio/profile.png" 
+                src="./portfolio/profile.png" 
                 alt="Brian Kim"
                 className="w-full h-full rounded-full object-cover shadow-2xl border-4 border-gray-600"
               />
