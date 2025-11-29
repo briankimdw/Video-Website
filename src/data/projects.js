@@ -35,8 +35,8 @@ export const projects = [
     id: "Package",
     title: "Package",
     description: "Final Package at the city of oaks marathon in Raleigh including 2 interviews from Oscar Cheung who recently ran a 2:50 marathon at Indianapolis and Angela Yang",
-    image: "",
-    video: "",
+    image: "/portfoilio/Package.png",
+    video: "https://www.youtube.com/watch?v=X8v3Q3rGiLA",
     category: "Package",
   },
 ];
